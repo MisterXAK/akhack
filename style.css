@@ -5,7 +5,7 @@ button:not([class^="cky"]){
     border: none !important;
     border-radius: 6px !important;
 }
-#leaderboardgame {
+#leaderboardGame {
     width: 150px !important;
     height: 35px !important;
     background: none;
