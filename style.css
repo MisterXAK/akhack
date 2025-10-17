@@ -6,10 +6,17 @@ button:not([class^="cky"]){
     border-radius: 6px !important;
 }
 #leaderboardGame {
-    width: 150px !important;
     height: 35px !important;
     background: none;
     background-color: #bfe1bb !important;
     border: none !important;
     border-radius: 6px !important;
+    transition: 100ms !important;
+    &:focus-visible {
+        border: none !important;
+    }
+}
+
+option:nth-of-type(odd) {
+    background-color: #efffed !important;
 }
