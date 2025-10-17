@@ -5,3 +5,11 @@ button{
     border: none !important;
     border-radius: 6px !important;
 }
+#leaderboardgame {
+    width: 150px !important;
+    height: 35px !important;
+    background: none;
+    background-color: #bfe1bb !important;
+    border: none !important;
+    border-radius: 6px !important;
+}
