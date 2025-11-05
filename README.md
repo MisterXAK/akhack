@@ -1,4 +1,4 @@
-Code om direct de HV1 escape-room te winnen:
+Code om direct de V6 escape-room te winnen:
 
 ```
 document.querySelector("#pano > div > div:nth-child(1) > div > div:nth-child(3)").click();document.querySelector("#code3Input").value = atob("NDQzMg==");document.querySelector("#code3Submit").click()
