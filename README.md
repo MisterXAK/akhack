@@ -22,10 +22,13 @@ document.querySelector("#pano > div > div:nth-child(1) > div > div:nth-child(3)"
 - V6: `4120435320`
 
 **Wat hij zegt is een beetje onduidelijk.**
+
 Voor HV1 zegt hij:
 - *Hoe laat is het nu in **Engeland**?*
 - *Hoe laat is het nu in **Japan**?*
 - *Hoe laat is het nu in **Turkije**?*
 
-Voor V6:
-*Ga naar de website [aardrijkskundeleren.nl/escapebegrippen](https://aardrijkskundeleren.nl/escapebegrippen). Let op: Dit is zonder streepje, in tegenstelling tot alle andere links van zijn site.*
+Voor V6 zegt hij:
+
+*Ga naar de website [aardrijkskundeleren.nl/escapebegrippen](https://aardrijkskundeleren.nl/escapebegrippen).*
+Let op: Dit is zonder streepje, in tegenstelling tot alle andere links van zijn site.
