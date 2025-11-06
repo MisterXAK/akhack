@@ -30,5 +30,4 @@ Voor HV1 zegt hij:
 
 Voor V6 zegt hij:
 
-*Ga naar de website [aardrijkskundeleren.nl/escapebegrippen](https://aardrijkskundeleren.nl/escapebegrippen).*
-Let op: Dit is zonder streepje, in tegenstelling tot alle andere links van zijn site.
+*Ga naar de website [aardrijkskundeleren.nl/escapebegrippen](https://aardrijkskundeleren.nl/escapebegrippen).* <br> Let op: Dit is zonder streepje, in tegenstelling tot alle andere links van zijn site.
