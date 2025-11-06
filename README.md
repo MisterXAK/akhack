@@ -1,3 +1,5 @@
+**Dit zijn dingen voor de site https://aardrijkskundeleren.nl.**
+
 ## Codes om direct de Escape rooms te winnen:
 
 ### HV1
