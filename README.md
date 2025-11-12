@@ -31,3 +31,11 @@ Voor HV1 zegt hij:
 Voor V6 zegt hij:
 
 *Ga naar de website [aardrijkskundeleren.nl/escapebegrippen](https://aardrijkskundeleren.nl/escapebegrippen).* <br> Let op: Dit is zonder streepje, in tegenstelling tot alle andere links van zijn site.
+
+## Code voor een leuk muziekje:
+```
+document.querySelector("#pano > div > div:nth-child(1) > div > div:nth-child(6)").click();setInterval(() => {document.querySelector("#numpad > button:nth-child(8)").click()}, 100)
+```
+**Ook hier:**
+1. Druk op <kbd>CTRL</kbd> + <kbd>SHIFT</kbd> + <kbd>J</kbd>
+2. Plak de code en druk op <kbd>ENTER</kbd>.
