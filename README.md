@@ -13,7 +13,7 @@ document.querySelector("#pano > div > div:nth-child(1) > div > div:nth-child(3)"
 ```
 
 1. Druk op <kbd>CTRL</kbd> + <kbd>SHIFT</kbd> + <kbd>J</kbd>
-2. Plak de code en druk op <kbd>ENTER</kbd>.
+2. Plak de code en druk op <kbd>ENTER</kbd> [*](https://github.com/MisterXAK/akhack?tab=readme-ov-file#soms-moet-je-nog-allow-pasting-erin-zetten).
 
 
 ## Goede telefoonnummers:
@@ -38,6 +38,6 @@ document.querySelector("#pano > div > div:nth-child(1) > div > div:nth-child(6)"
 ```
 **Ook hier:**
 1. Druk op <kbd>CTRL</kbd> + <kbd>SHIFT</kbd> + <kbd>J</kbd>
-2. Plak de code en druk op <kbd>ENTER</kbd>.
+2. Plak de code en druk op <kbd>ENTER</kbd> [*](https://github.com/MisterXAK/akhack?tab=readme-ov-file#soms-moet-je-nog-allow-pasting-erin-zetten).
 
 ### *Soms moet je nog allow pasting erin zetten.
